@@ -129,6 +129,7 @@ GROUP BY
     genres, revenue
 ```
 ![Логическая модель данных](LogicalDataModel.png)
+Логическая модель данных
 
 ## <a id="4-визуализация-с-power-bi"></a> 4. Визуализация с Power BI
 
