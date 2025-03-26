@@ -1,0 +1,8 @@
+# Исключаем виртуальное окружение
+venv/
+
+# Исключаем временные файлы Jupyter Notebook
+.ipynb_checkpoints/
+
+# Исключаем тяжелый файл
+TMDB_movie_dataset.csv
